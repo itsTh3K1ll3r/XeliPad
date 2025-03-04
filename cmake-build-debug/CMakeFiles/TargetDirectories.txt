@@ -1,0 +1,14 @@
+/Volumes/SSDExtern/CLionProjects/XeliPad/cmake-build-debug/CMakeFiles/XeliPad.dir
+/Volumes/SSDExtern/CLionProjects/XeliPad/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Volumes/SSDExtern/CLionProjects/XeliPad/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Volumes/SSDExtern/CLionProjects/XeliPad/cmake-build-debug/CMakeFiles/list_install_components.dir
+/Volumes/SSDExtern/CLionProjects/XeliPad/cmake-build-debug/CMakeFiles/install.dir
+/Volumes/SSDExtern/CLionProjects/XeliPad/cmake-build-debug/CMakeFiles/install/local.dir
+/Volumes/SSDExtern/CLionProjects/XeliPad/cmake-build-debug/CMakeFiles/install/strip.dir
+/Volumes/SSDExtern/CLionProjects/XeliPad/cmake-build-debug/OpenXLSX/CMakeFiles/OpenXLSX.dir
+/Volumes/SSDExtern/CLionProjects/XeliPad/cmake-build-debug/OpenXLSX/CMakeFiles/edit_cache.dir
+/Volumes/SSDExtern/CLionProjects/XeliPad/cmake-build-debug/OpenXLSX/CMakeFiles/rebuild_cache.dir
+/Volumes/SSDExtern/CLionProjects/XeliPad/cmake-build-debug/OpenXLSX/CMakeFiles/list_install_components.dir
+/Volumes/SSDExtern/CLionProjects/XeliPad/cmake-build-debug/OpenXLSX/CMakeFiles/install.dir
+/Volumes/SSDExtern/CLionProjects/XeliPad/cmake-build-debug/OpenXLSX/CMakeFiles/install/local.dir
+/Volumes/SSDExtern/CLionProjects/XeliPad/cmake-build-debug/OpenXLSX/CMakeFiles/install/strip.dir
